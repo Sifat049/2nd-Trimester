@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1707244381 source:e:\spl\class work\grade calculation different way\switch_case format\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
