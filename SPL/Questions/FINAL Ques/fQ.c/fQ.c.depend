@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1715269355 source:i:\spl\final ques\fq.c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
