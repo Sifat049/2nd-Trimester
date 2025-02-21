@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1708971925 source:e:\spl\beecrowd\1040\main.c
+	<stdlib.h>
+	<stdio.h>
+	<stdbool.h>
+	<stdlib.h>
+	<time.h>
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+
