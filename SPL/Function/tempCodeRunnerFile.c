@@ -1,1 +1,0 @@
-void change (int *x, int *y, int z) {
